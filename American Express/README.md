@@ -3,7 +3,7 @@
 ## Personal Cards
 | | | |
 |:---:|:---:|:---:|
-| ![Blue](<Credit Card\Personal\Blue.bmp>) Blue | ![Blue Cash Everyday](<Credit Card\Personal\Blue Cash Everyday.png>) Blue Cash Everyday | ![Blue Cash Preferred](<Credit Card\Personal\Blue Cash Preferred.png>) Blue Cash Preferred |
+| ![Blue](<Credit Card/Personal/Blue.bmp>) Blue | ![Blue Cash Everyday](<Credit Card\Personal\Blue Cash Everyday.png>) Blue Cash Everyday | ![Blue Cash Preferred](<Credit Card\Personal\Blue Cash Preferred.png>) Blue Cash Preferred |
 | ![Blue Sky](<Credit Card\Personal\Blue Sky.png>) Blue Sky | ![Cash Magnet](<Credit Card\Personal\Cash Magnet.bmp>) Cash Magnet | ![Centurion](<Credit Card\Personal\Centurion.jpeg>) Centurion |
 | ![Centurion 2](<Credit Card\Personal\Centurion 2.jpeg>) Centurion 2 | ![Companion](<Credit Card\Personal\Companion.png>) Companion | ![debit](<Credit Card\Personal\debit.png>) debit |
 | ![Delta Blue](<Credit Card\Personal\Delta Blue.png>) Delta Blue | ![Delta Gold](<Credit Card\Personal\Delta Gold.png>) Delta Gold | ![Delta Platinum](<Credit Card\Personal\Delta Platinum.png>) Delta Platinum |
