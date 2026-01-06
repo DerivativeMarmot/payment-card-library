@@ -1,0 +1,7 @@
+[
+  { "id": "chase", "name": "Chase" },
+  { "id": "amex", "name": "American Express" },
+  { "id": "citi", "name": "Citi" },
+  { "id": "boa", "name": "Bank of America" },
+  { "id": "discover", "name": "Discover" }
+]

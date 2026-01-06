@@ -1,0 +1,134 @@
+[
+  {
+    "id": "boa_premium_rewards_face",
+    "cardId": "boa_premium_rewards",
+    "remoteUrl": "https://remote.example.com/cards/boa/premium_rewards.png",
+    "localPath": null
+  },
+  {
+    "id": "boa_premium_rewards_elite_face",
+    "cardId": "boa_premium_rewards_elite",
+    "remoteUrl": "https://remote.example.com/cards/boa/premium_rewards_elite.png",
+    "localPath": null
+  },
+  {
+    "id": "boa_travel_rewards_face",
+    "cardId": "boa_travel_rewards",
+    "remoteUrl": "https://remote.example.com/cards/boa/travel_rewards.png",
+    "localPath": null
+  },
+  {
+    "id": "boa_customized_cash_face",
+    "cardId": "boa_customized_cash",
+    "remoteUrl": "https://remote.example.com/cards/boa/customized_cash_rewards.png",
+    "localPath": null
+  },
+  {
+    "id": "boa_bankamericard_face",
+    "cardId": "boa_bankamericard",
+    "remoteUrl": "https://remote.example.com/cards/boa/bankamericard.png",
+    "localPath": null
+  },
+  {
+    "id": "boa_atmos_rewards_summit_face",
+    "cardId": "boa_atmos_rewards_summit",
+    "remoteUrl": "https://remote.example.com/cards/boa/atmos_rewards_summit.png",
+    "localPath": null
+  },
+  {
+    "id": "boa_atmos_rewards_ascent_face",
+    "cardId": "boa_atmos_rewards_ascent",
+    "remoteUrl": "https://remote.example.com/cards/boa/atmos_rewards_ascent.png",
+    "localPath": null
+  },
+  {
+    "id": "boa_unlimited_cash_face",
+    "cardId": "boa_unlimited_cash",
+    "remoteUrl": "https://remote.example.com/cards/boa/unlimited_cash.png",
+    "localPath": null
+  },
+  {
+    "id": "boa_atmos_rewards_summit_face_alaska_airlines",
+    "cardId": "boa_atmos_rewards_summit",
+    "remoteUrl": null,
+    "localPath": "Bank of America/Credit Card/Personal/Alaska Airlines.jpg"
+  },
+  {
+    "id": "boa_premium_rewards_2020_face",
+    "cardId": "boa_premium_rewards",
+    "remoteUrl": null,
+    "localPath": "Bank of America/Credit Card/Personal/Premium Rewards 2020.jpeg"
+  },
+  {
+    "id": "boa_customized_cash_face_cash_rewards",
+    "cardId": "boa_customized_cash",
+    "remoteUrl": null,
+    "localPath": "Bank of America/Credit Card/Personal/Cash Rewards.png"
+  },
+  {
+    "id": "boa_customized_cash_face_cash_rewards_2020_mc",
+    "cardId": "boa_customized_cash",
+    "remoteUrl": null,
+    "localPath": "Bank of America/Credit Card/Personal/Cash Rewards 2020 Mastercard.png"
+  },
+  {
+    "id": "boa_customized_cash_face_cash_rewards_2020_visa",
+    "cardId": "boa_customized_cash",
+    "remoteUrl": null,
+    "localPath": "Bank of America/Credit Card/Personal/Cash Rewards 2020 Visa.png"
+  },
+  {
+    "id": "boa_customized_cash_face_cash_rewards_old",
+    "cardId": "boa_customized_cash",
+    "remoteUrl": null,
+    "localPath": "Bank of America/Credit Card/Personal/Cash Rewards Old.png"
+  },
+  {
+    "id": "boa_customized_cash_face_custom_mc",
+    "cardId": "boa_customized_cash",
+    "remoteUrl": null,
+    "localPath": "Bank of America/Credit Card/Personal/Custom Cash Rewards (Mastercard).png"
+  },
+  {
+    "id": "boa_customized_cash_face_custom_visa",
+    "cardId": "boa_customized_cash",
+    "remoteUrl": null,
+    "localPath": "Bank of America/Credit Card/Personal/Custom Cash Rewards (Visa).png"
+  },
+  {
+    "id": "boa_customized_cash_face_mlb",
+    "cardId": "boa_customized_cash",
+    "remoteUrl": null,
+    "localPath": "Bank of America/Credit Card/Personal/MLB.png"
+  },
+  {
+    "id": "boa_customized_cash_face_nwf_fox",
+    "cardId": "boa_customized_cash",
+    "remoteUrl": null,
+    "localPath": "Bank of America/Credit Card/Personal/NWF Fox.jpeg"
+  },
+  {
+    "id": "boa_customized_cash_face_susan_g_komen",
+    "cardId": "boa_customized_cash",
+    "remoteUrl": null,
+    "localPath": "Bank of America/Credit Card/Personal/Susan G Komen.jpg"
+  },
+  {
+    "id": "boa_customized_cash_face_us_pride",
+    "cardId": "boa_customized_cash",
+    "remoteUrl": null,
+    "localPath": "Bank of America/Credit Card/Personal/U.S. Pride.png"
+  },
+  {
+    "id": "boa_customized_cash_face_uci",
+    "cardId": "boa_customized_cash",
+    "remoteUrl": null,
+    "localPath": "Bank of America/Credit Card/Personal/UCI.png"
+  },
+  {
+    "id": "boa_customized_cash_face_wwf",
+    "cardId": "boa_customized_cash",
+    "remoteUrl": null,
+    "localPath": "Bank of America/Credit Card/Personal/WWF.jpg"
+  }
+]

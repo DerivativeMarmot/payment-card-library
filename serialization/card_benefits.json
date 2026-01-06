@@ -1,0 +1,13 @@
+[
+  {"cardId":"boa_customized_cash","benefitId":"boa_customized_cash_choice"},
+  {"cardId":"boa_customized_cash","benefitId":"boa_customized_cash_grocery"},
+  {"cardId":"boa_unlimited_cash","benefitId":"boa_unlimited_cash_all"},
+  {"cardId":"boa_travel_rewards","benefitId":"boa_travel_rewards_all"},
+  {"cardId":"boa_premium_rewards","benefitId":"boa_premium_rewards_travel_dining"},
+  {"cardId":"boa_premium_rewards","benefitId":"boa_premium_rewards_airline_credit"},
+  {"cardId":"boa_premium_rewards_elite","benefitId":"boa_premium_rewards_elite_travel_dining"},
+  {"cardId":"boa_premium_rewards_elite","benefitId":"boa_premium_rewards_elite_airline_credit"},
+  {"cardId":"boa_atmos_rewards_summit","benefitId":"boa_atmos_summit_alaska"},
+  {"cardId":"boa_atmos_rewards_summit","benefitId":"boa_atmos_summit_transit_stream"},
+  {"cardId":"boa_bankamericard","benefitId":"boa_bankamericard_intro"}
+]
