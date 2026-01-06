@@ -3,5 +3,12 @@
   { "id": "amex", "name": "American Express" },
   { "id": "citi", "name": "Citi" },
   { "id": "boa", "name": "Bank of America" },
-  { "id": "discover", "name": "Discover" }
+  { "id": "discover", "name": "Discover" },
+  { "id": "barclays", "name": "Barclays" },
+  { "id": "capitalone", "name": "Capital One" },
+  { "id": "hsbc", "name": "HSBC" },
+  { "id": "penfed", "name": "Penfed" },
+  { "id": "synchrony", "name": "Synchrony" },
+  { "id": "usbank", "name": "US Bank" },
+  { "id": "wellsfargo", "name": "Wells Fargo" }
 ]
