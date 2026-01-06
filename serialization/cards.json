@@ -1,14 +1,14 @@
 [
-  { "id": "chase_sapphire_preferred", "slug": "chase_sapphire_preferred", "issuerId": "chase", "productName": "Chase Sapphire Preferred", "network": "Visa", "annualFee": 95 },
-  { "id": "amex_gold", "slug": "amex_gold", "issuerId": "amex", "productName": "American Express Gold Card", "network": "Amex", "annualFee": 250 },
-  { "id": "citi_premier", "slug": "citi_premier", "issuerId": "citi", "productName": "Citi Premier", "network": "Mastercard", "annualFee": 95 },
-  { "id": "boa_premium_rewards", "slug": "boa_premium_rewards", "issuerId": "boa", "productName": "Bank of America Premium Rewards", "network": "Visa", "annualFee": 95 },
-  { "id": "boa_premium_rewards_elite", "slug": "boa_premium_rewards_elite", "issuerId": "boa", "productName": "Bank of America Premium Rewards Elite", "network": "Visa", "annualFee": 550 },
-  { "id": "boa_travel_rewards", "slug": "boa_travel_rewards", "issuerId": "boa", "productName": "Bank of America Travel Rewards", "network": "Visa", "annualFee": 0 },
-  { "id": "boa_unlimited_cash", "slug": "boa_unlimited_cash", "issuerId": "boa", "productName": "Bank of America Unlimited Cash Rewards", "network": "Visa", "annualFee": 0 },
-  { "id": "boa_customized_cash", "slug": "boa_customized_cash", "issuerId": "boa", "productName": "Bank of America Customized Cash Rewards", "network": "Visa", "annualFee": 0 },
-  { "id": "boa_bankamericard", "slug": "boa_bankamericard", "issuerId": "boa", "productName": "BankAmericard", "network": "Visa", "annualFee": 0 },
-  { "id": "boa_atmos_rewards_summit", "slug": "boa_atmos_rewards_summit", "issuerId": "boa", "productName": "Atmos Rewards Summit", "network": "Visa", "annualFee": 95 },
-  { "id": "boa_atmos_rewards_ascent", "slug": "boa_atmos_rewards_ascent", "issuerId": "boa", "productName": "Atmos Rewards Ascent", "network": "Visa", "annualFee": 0 },
-  { "id": "discover_it", "slug": "discover_it", "issuerId": "discover", "productName": "Discover it Cash Back", "network": "Discover", "annualFee": 0 }
+  { "id": "chase_sapphire_preferred", "issuerId": "chase", "productName": "Chase Sapphire Preferred", "network": "Visa", "annualFee": 95 },
+  { "id": "amex_gold", "issuerId": "amex", "productName": "American Express Gold Card", "network": "Amex", "annualFee": 250 },
+  { "id": "citi_premier", "issuerId": "citi", "productName": "Citi Premier", "network": "Mastercard", "annualFee": 95 },
+  { "id": "boa_premium_rewards", "issuerId": "boa", "productName": "Bank of America Premium Rewards", "network": "Visa", "annualFee": 95 },
+  { "id": "boa_premium_rewards_elite", "issuerId": "boa", "productName": "Bank of America Premium Rewards Elite", "network": "Visa", "annualFee": 550 },
+  { "id": "boa_travel_rewards", "issuerId": "boa", "productName": "Bank of America Travel Rewards", "network": "Visa", "annualFee": 0 },
+  { "id": "boa_unlimited_cash", "issuerId": "boa", "productName": "Bank of America Unlimited Cash Rewards", "network": "Visa", "annualFee": 0 },
+  { "id": "boa_customized_cash", "issuerId": "boa", "productName": "Bank of America Customized Cash Rewards", "network": "Visa", "annualFee": 0 },
+  { "id": "boa_bankamericard", "issuerId": "boa", "productName": "BankAmericard", "network": "Visa", "annualFee": 0 },
+  { "id": "boa_atmos_rewards_summit", "issuerId": "boa", "productName": "Atmos Rewards Summit", "network": "Visa", "annualFee": 95 },
+  { "id": "boa_atmos_rewards_ascent", "issuerId": "boa", "productName": "Atmos Rewards Ascent", "network": "Visa", "annualFee": 0 },
+  { "id": "discover_it", "issuerId": "discover", "productName": "Discover it Cash Back", "network": "Discover", "annualFee": 0 }
 ]
