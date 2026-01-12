@@ -8,7 +8,7 @@ from firebase_admin import credentials, firestore
 BASE_DIR = Path(__file__).resolve().parent
 
 # Fetch the service account key JSON file contents
-cred = credentials.Certificate('serialization/mrewards-firebase-adminsdk.json')
+cred = credentials.Certificate('mrewards-firebase-adminsdk.json')
 
 # Initialize the app with a service account, granting admin privileges
 firebase_admin.initialize_app(cred)
@@ -85,11 +85,17 @@ def refresh_template_cards():
     total = _upsert_collection("template_cards", records)
     print(f"template_cards refreshed: {total} docs (cleared {removed}).")
 
+def refresh_card_faces():
+    records = _load_json("card_faces.json")
+    removed = _clear_collection("card_faces")
+    total = _upsert_collection("card_faces", records)
+    print(f"card_faces refreshed: {total} docs (cleared {removed}).")
+
 
 if __name__ == "__main__":
     # refresh_issuers()
     # refresh_cards()
     # refresh_template_cards()
-    # refresh_card_faces()
-    refresh_benefits()
+    refresh_card_faces()
+    # refresh_benefits()
     # refresh_template_card_benefits()
