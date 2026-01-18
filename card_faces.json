@@ -126,7 +126,7 @@
   {"id":"discover_it_cash_back_face_15","cardId":"discover_it_cash_back","remoteUrl":"https://raw.githubusercontent.com/DerivativeMarmot/payment-card-library/refs/heads/main/Discover/Credit%20Card/Personal/Rose%20Quartz.png","localPath":"","isDefault":false},
   {"id":"discover_it_cash_back_face_16","cardId":"discover_it_cash_back","remoteUrl":"https://raw.githubusercontent.com/DerivativeMarmot/payment-card-library/refs/heads/main/Discover/Credit%20Card/Personal/Tiger.jpeg","localPath":"","isDefault":false},
   {"id":"discover_it_cash_back_face_17","cardId":"discover_it_cash_back","remoteUrl":"https://raw.githubusercontent.com/DerivativeMarmot/payment-card-library/refs/heads/main/Discover/Credit%20Card/Personal/wolf.jpg","localPath":"","isDefault":false},
-  {"id":"discover_it_miles_face_1","cardId":"discover_it_miles","remoteUrl":"https://raw.githubusercontent.com/DerivativeMarmot/payment-card-library/refs/heads/main/Discover/Credit%20Card/Personal/Miles.bmp","localPath":"","isDefault":true},
+  {"id":"discover_it_miles_face_1","cardId":"discover_it_miles","remoteUrl":"https://raw.githubusercontent.com/DerivativeMarmot/payment-card-library/refs/heads/main/Discover/Credit%20Card/Personal/Miles.jpg","localPath":"","isDefault":true},
 
   {"id":"usbank_altitude_connect_face_1","cardId":"usbank_altitude_connect","remoteUrl":"https://raw.githubusercontent.com/DerivativeMarmot/payment-card-library/refs/heads/main/US%20Bank/Credit%20Card/Personal/Altitude%20Connect.png","localPath":"","isDefault":true},
   {"id":"usbank_altitude_go_face_1","cardId":"usbank_altitude_go","remoteUrl":"https://raw.githubusercontent.com/DerivativeMarmot/payment-card-library/refs/heads/main/US%20Bank/Credit%20Card/Personal/Go.png","localPath":"","isDefault":true},
@@ -136,6 +136,8 @@
   {"id":"usbank_cash_plus_face_1","cardId":"usbank_cash_plus","remoteUrl":"https://raw.githubusercontent.com/DerivativeMarmot/payment-card-library/refs/heads/main/US%20Bank/Credit%20Card/Personal/Cash%20Plus%202024.jpeg","localPath":"","isDefault":true},
   {"id":"usbank_cash_plus_face_2","cardId":"usbank_cash_plus","remoteUrl":"https://raw.githubusercontent.com/DerivativeMarmot/payment-card-library/refs/heads/main/US%20Bank/Credit%20Card/Personal/Cash%20Plus.png","localPath":"","isDefault":false},
   {"id":"usbank_cash_plus_face_3","cardId":"usbank_cash_plus","remoteUrl":"https://raw.githubusercontent.com/DerivativeMarmot/payment-card-library/refs/heads/main/US%20Bank/Credit%20Card/Personal/Cash%20Plus%202020.jpeg","localPath":"","isDefault":false},
+
+  {"id":"wellsfargo_active_cash_face_1","cardId":"wellsfargo_active_cash","remoteUrl":"https://raw.githubusercontent.com/DerivativeMarmot/payment-card-library/refs/heads/main/Wells%20Fargo/Credit%20Card/Personal/Active%20Cash.jpeg","localPath":"","isDefault":true},
 
   {"id":"synchrony_verizon_face_1","cardId":"synchrony_verizon","remoteUrl":"https://raw.githubusercontent.com/DerivativeMarmot/payment-card-library/refs/heads/main/Synchrony/Credit%20Card/Personal/Verizon.png","localPath":"","isDefault":true}
 ]
